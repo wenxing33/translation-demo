@@ -1,0 +1,6 @@
+{
+    "welcome": {
+        "subject": "这是个测试",
+        "title": "欢迎使用{{framework}}"
+    }
+}
