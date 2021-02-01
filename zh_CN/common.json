@@ -1,0 +1,7 @@
+{
+    "welcome": {
+        "title": {
+            "translation": "欢迎使用{{framework}}"
+        }
+    }
+}
