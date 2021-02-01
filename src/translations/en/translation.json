@@ -1,7 +1,7 @@
 {
-  "proposals": {
-    "createProposal": "Create Proposal",
-    "submitProposal": "Submit Proposal",
-    "deleteProposal": "Delete Proposal"
-  }
+    "proposals": {
+        "createProposal": "Create Proposal",
+        "submitProposal": "Submit Proposal",
+        "deleteProposal": "Delete Proposal"
+    }
 }
