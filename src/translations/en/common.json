@@ -1,5 +1,6 @@
 {
-	"welcome": {
-		"title": "Welcome to {{framework}}"
-	}
+  "welcome": {
+    "title": "Welcome to {{framework}}",
+    "subject": "This is a test"
+  }
 }
