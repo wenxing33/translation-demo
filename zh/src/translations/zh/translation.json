@@ -1,0 +1,7 @@
+{
+    "proposals": {
+        "deleteProposal": "删除投标书",
+        "submitProposal": "提交投标书",
+        "createProposal": "创建投标书"
+    }
+}
